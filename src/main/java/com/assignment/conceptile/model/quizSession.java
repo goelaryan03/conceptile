@@ -26,10 +26,6 @@ public class quizSession {
 	public void setUserId(Integer userId) {
 		this.userId = userId;
 	}
-	public quizSession(Integer sessionId, Integer userId) {
-		super();
-		this.sessionId = sessionId;
-		this.userId = userId;
-	}
+	
 	
 }
